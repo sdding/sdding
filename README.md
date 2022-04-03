@@ -35,4 +35,4 @@ Here are some ideas to get you started:
 
 Contact  :  <a href="mailto:ssulee0206@gmail.com"><img src="https://img.shields.io/badge/Gmail-EA4335?style=flat-square&logo=Gmail&logoColor=white"/></a></a>
 
-Portfolio : ![Notion](https://img.shields.io/badge/Notion-%23000000.svg?style=flat-square&logo=notion&logoColor=white)(https://www.notion.so/Data-Scientist-7a2fbe301be04829b16250e37477c2f7)
+Portfolio : <a href="[https://www.notion.so/Data-Scientist-7a2fbe301be04829b16250e37477c2f7]" target="_blank"><img src="https://img.shields.io/badge/[Notion]-[#000000]?style=flat-square&logo=[Notion]&logoColor=white"/></a>
