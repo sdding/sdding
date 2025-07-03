@@ -16,7 +16,7 @@ Here are some ideas to get you started:
 
 <div align=center>
 
-  ### Data Science
+  ### Artificial INtelligence
 
 <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=Python&logoColor=white"/></a>
 <img src="https://img.shields.io/badge/NumPy-013243?style=flat-square&logo=NumPy&logoColor=white"/></a>
